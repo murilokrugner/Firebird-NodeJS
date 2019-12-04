@@ -1,0 +1,19 @@
+{
+  "name": "Firebird-NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/murilokrugner/Firebird-NodeJS.git",
+  "author": "Murilo Krugner <murilokrugner@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-firebird": "^0.8.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1",
+    "sucrase": "^3.10.1"
+  }
+}
