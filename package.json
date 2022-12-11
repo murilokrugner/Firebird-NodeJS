@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "base64-to-image": "^1.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-firebird": "^0.8.9"
   },
   "devDependencies": {
